@@ -13,3 +13,5 @@ Para desplegar el programa es tan sencillo como seguir estos pasos:
 
 Este programa no necesita ninguna biblioteca externa, con los métodos que tiene bastaría para su uso correcto y apropiado.
 
+Documentación adicional:
+https://github.com/Bazokyta/Documentacion/wiki
