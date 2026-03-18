@@ -1,4 +1,4 @@
-**Programa para la inscripción de un instituto**
+# **Programa para la inscripción de un instituto**
 
 Este programa consiste en la gestión de un instituto, pudiendo añadir alumnos nuevos, ver los alumnos ya inscritos y modificar sus calificaciones y hacer media de cada módulo del curso.
 
