@@ -17,7 +17,8 @@ Documentación adicional:
 https://github.com/Bazokyta/Documentacion/wiki
 
 
-[![Descargar VS Code](https://img.shields.io/badge/Descargar-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Descargar PyCharm](https://img.shields.io/badge/Descargar-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/download/)
-
-[![](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.python.org/downloads/windows/)
+<p align="left">
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/PYTHON-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+</p>
