@@ -23,12 +23,6 @@ VS Code:
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Descargar-VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/pycharm/download/">
-    <img src="https://img.shields.io/badge/Descargar-PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="35">
-  </a>
-</p>
-
 
 Pycharm
 <p align="left">
