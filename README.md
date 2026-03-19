@@ -16,6 +16,19 @@ Este programa no necesita ninguna biblioteca externa, con los métodos que tiene
 Documentación adicional:
 https://github.com/Bazokyta/Documentacion/wiki
 
+Link descargas:
+
+<p align="left">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Descargar-VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/download/">
+    <img src="https://img.shields.io/badge/Descargar-PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="35">
+  </a>
+</p>
+
+
 
 <p align="left">
   <a href="https://www.python.org/downloads/">
