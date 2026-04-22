@@ -2,7 +2,7 @@
 
 Este programa consiste en la gestión de un instituto, pudiendo añadir alumnos nuevos, ver los alumnos ya inscritos y modificar sus calificaciones y hacer media de cada módulo del curso.
 
-Para poder utilizar el programa es necesario haber instalado una aplicación que entienda python ya que la aplicación tiene la extensión .py siendo esta la extensión que tienen los archivos de python que tenga de la versión 3.10 en adelante.
+Para poder utilizar el programa es necesario haber instalado una aplicación que entienda python ya que la aplicación tiene la extensión .py siendo esta la extensión que tienen los archivos de python. Para python, la versión tiene que ser de la 3.10 en adelante, para las aplicaciones que vayamos  utilizar como por ejemplo pyCharm siendo de la 2022.1 en adelante y/o en VSCode de la 1.70 en adelante.
 
 Para desplegar el programa es tan sencillo como seguir estos pasos:
 
@@ -14,4 +14,4 @@ Para desplegar el programa es tan sencillo como seguir estos pasos:
 Este programa no necesita ninguna biblioteca externa, con los métodos que tiene bastaría para su uso correcto y apropiado.
 
 Documentación adicional:
-https://github.com/Bazokyta/Documentacion/wiki
+https://github.com/Bazokyta/Documentacion/wiki/Guía-de-uso
