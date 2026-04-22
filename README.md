@@ -2,7 +2,7 @@
 
 Este programa consiste en la gestión de un instituto, pudiendo añadir alumnos nuevos, ver los alumnos ya inscritos y modificar sus calificaciones y hacer media de cada módulo del curso.
 
-Para poder utilizar el programa es necesario haber instalado una aplicación que entienda python ya que la aplicación tiene la extensión .py siendo esta la extensión que tienen los archivos de python. Para python, la versión tiene que ser de la 3.10 en adelante, para las aplicaciones que vayamos  utilizar como por ejemplo pyCharm siendo de la 2022.1 en adelante y/o en VSCode de la 1.70 en adelante.
+Para poder utilizar el programa es necesario haber instalado una aplicación que entienda python ya que la aplicación tiene la extensión .py siendo esta la extensión que tienen los archivos de python. La versión tiene que ser de la 3.10 en adelante ya que en versiones anteriores a la hora de ejecutar el codigo dará error.
 
 Para desplegar el programa es tan sencillo como seguir estos pasos:
 
