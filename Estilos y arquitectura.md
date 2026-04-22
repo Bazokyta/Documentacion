@@ -1,7 +1,7 @@
 **Clases:**
 - Clase Alumno: Entidad que contiene la información.  
 - Clase Curso: Gestor de la información.  
-- Un Curso contiene una lista de objetos Alumnos permitiendo que, mediante el manú, el Curso sepa recorrer sus alumnos.
+- Un Curso contiene una lista de objetos Alumnos permitiendo que, mediante el menú, el Curso sepa recorrer sus alumnos.
 
 **Métodos:**
 - En el setter del DNI se asegura de sean 8 números y 1 letra.  
