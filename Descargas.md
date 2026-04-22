@@ -10,7 +10,7 @@ Le damos al boton de "Descargar".
 </p>
 
 <br><br>
-Una vez pulsemos el botón nos llevará a la página de descarga, ahí simplemente de lamos al boton de "Descargar" y se nos descargará directamente el launcher.
+Una vez pulsemos el botón nos llevará a la página de descarga, ahí simplemente de lamos al botón de "Descargar" y se nos descargará directamente el launcher.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/533dce42-f5aa-4ee2-ae53-d2db093e92e2" alt="Captura del programa" width="600">
 </p>
