@@ -11,7 +11,9 @@ Para desplegar el programa es tan sencillo como seguir estos pasos:
 3. Seleccionamos el archivo “Gestión de alumnos y calificaciones.py”  
 4. Click derecho y seleccionamos Run o ejecutar.
 
-Este programa no necesita ninguna biblioteca externa, con los métodos que tiene bastaría para su uso correcto y apropiado.
+**[GUÍA PARA DESCARGAR PYCHARM Y VSCODE EN WINDOWS Y LINUX](./Descargar.md)**
+
+Este programa no necesita ninguna biblioteca externa.
 <br><br>
 <p align="center">
   <a href="https://github.com/Bazokyta/Documentacion/wiki/Guía-de-uso">
