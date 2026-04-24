@@ -74,7 +74,7 @@ Ahora instalamos Python3:
 
 ```sudo aptinstall python3```
 
-Tenemos que vereificar que su versión sea 3.10 o superior para que o de fallo.
+Tenemos que vereificar que su versión sea 3.10 o superior para que no de fallo.
 
 Para ello ejecutamos el siguiente comando para verificar su versión:
 
