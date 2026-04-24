@@ -8,7 +8,7 @@ Para desplegar el programa es tan sencillo como seguir estos pasos:
 
 1. Abrir la aplicación con la que vayamos a trabajar (PyCharm o VS Code)  
 2. Nos vamos al menú File → Open.  
-3. Seleccionamos el archivo “Gestión de alumnos y calificaciones.py”  
+3. Abrimos el archivo “Gestión_alumnos.py”  
 4. Click derecho y seleccionamos Run o ejecutar.
 
 **[GUÍA PARA DESCARGAR PYCHARM Y VSCODE EN WINDOWS Y LINUX](./Descargar.md)**
