@@ -28,7 +28,7 @@ Una vez con el programa, lo abrimos directamente y comprobamos que se a descarga
 
 Abrimos una terminal y escribimos el siguiente comando:
 
-*"sudo snap install pycharm-community --classic"*
+```sudo snap install pycharm-community --classic```
 
 Una vez termine de descargarse, lo podemos buscar mediante el buscador de linux y podemos abrirlo directamente.
 
