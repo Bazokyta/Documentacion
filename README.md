@@ -15,6 +15,6 @@ Este programa no necesita ninguna biblioteca externa, con los métodos que tiene
 <br><br>
 <p align="center">
   <a href="https://github.com/Bazokyta/Documentacion/wiki">
-    <img src="https://img.shields.io/badge/ACCEDER_AL_MANUAL_DE_USUARIO-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="50">
+    <img src="https://img.shields.io/badge/MANUAL_DE_USUARIO-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="50">
   </a>
 </p>
