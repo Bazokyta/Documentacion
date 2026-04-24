@@ -61,3 +61,21 @@ Para descargarlo en linux, seleccionamos la opción de "linux".
 </p>
 <br>
 Con el archivo descargado le hacemos doble click para instalarlo a través del gestor de software.
+
+# PYTHON TERMINAL LINUX:
+
+Para descargar python mediante una terminal deberemos ejecutar los siguientes comandos:
+
+Actualizamos los paquetes:
+
+```sudo apt update```
+
+Ahora instalamos Python3:
+
+```sudo aptinstall python3```
+
+Tenemos que vereificar que su versión sea 3.10 o superior para que o de fallo.
+
+Para ello ejecutamos el siguiente comando para verificar su versión:
+
+```python3 --version```
