@@ -2,7 +2,7 @@
 
 Para descargar PyCharm tenemos que irnos a su página principal.
 
-Enlace: https://www.jetbrains.com/es-es/pycharm/
+**[PÁGINA PRINCIPAL PYCHARM](https://www.jetbrains.com/es-es/pycharm)**
 
 Le damos al boton de "Descargar".
 <p align="center">
@@ -38,7 +38,7 @@ Una vez termine de descargarse, lo podemos buscar mediante el buscador de linux 
 
 Para descargar VSCode tenemos que irnos a su página principal.
 
-Enlace: https://code.visualstudio.com/download
+**[PÁGINA PRINCIPAL VSCODE](https://code.visualstudio.com/download)**
 
 Seleccionamos la opción de "windows".
 <p align="center">
