@@ -66,11 +66,7 @@ Con el archivo descargado le hacemos doble click para instalarlo a través del g
 
 Para descargar python mediante una terminal deberemos ejecutar los siguientes comandos:
 
-Actualizamos los paquetes:
-
-```sudo apt update```
-
-Ahora instalamos Python3:
+Escribimos:
 
 ```sudo aptinstall python3```
 
